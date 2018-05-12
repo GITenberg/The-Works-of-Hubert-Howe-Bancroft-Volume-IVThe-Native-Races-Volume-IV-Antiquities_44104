@@ -1,0 +1,31 @@
+_repo: The-Works-of-Hubert-Howe-Bancroft-Volume-IVThe-Native-Races-Volume-IV-Antiquities_44104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bancroft, Hubert Howe
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '944'
+    url: http://www.gutenberg.org/2009/agents/944
+    wikipedia: http://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
+description: ''
+gutenberg_issued: '2013-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of Central America'
+- !lcsh 'Indians of North America -- Pacific Coast of North America'
+- !lcsh 'Indians -- Bibliography'
+- !lcsh 'Indians of Mexico'
+- !lcc 'E011'
+title: "The Native Races [of the Pacific states], Volume 4, Antiquities\r\nThe Works\
+  \ of Hubert Howe Bancroft, Volume 4"
+url: http://www.gutenberg.org/ebooks/44104
