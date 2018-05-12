@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/944
     wikipedia: http://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44104#The-Works-of-Hubert-Howe-Bancroft-Volume-IVThe-Native-Races-Volume-IV-Antiquities
 gutenberg_issued: '2013-11-04'
 gutenberg_type: Text
 identifiers:
